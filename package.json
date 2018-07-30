@@ -9,10 +9,6 @@
   },
   "author": "Stefan Gordon <stefan@stefangordon.com>",
   "license": "MIT",
-  "engines": {
-    "node": ">=8.11.1",
-    "npm": ">=5.6.0"
-  },
   "dependencies": {
     "@babel/polyfill": "^7.0.0-beta.44",
     "@fortawesome/fontawesome": "^1.1.8",
